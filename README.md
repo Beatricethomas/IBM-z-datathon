@@ -42,3 +42,10 @@ customer_data.head()
 ~~~
 # Presentation: 
 
+[IBM Z _compressed (2).pdf](https://github.com/user-attachments/files/17449167/IBM.Z._compressed.2.pdf)
+
+# Output : 
+  
+![output](https://github.com/user-attachments/assets/f3ea2fab-8e2c-4a86-86dd-95f53b4d7db9)
+
+
